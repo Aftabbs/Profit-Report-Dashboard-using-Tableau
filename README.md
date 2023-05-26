@@ -10,12 +10,16 @@ The Profit Report dashboard provides an overview of sales and profit information
 # How to Use
 To use the Profit Report dashboard, follow these steps:
 
+![image](https://github.com/Aftabbs/Profit-Report-Dashboard-using-Tableau/assets/112916888/afc7a06e-2211-4544-912b-c40f70c18af1)
+
+
+
 Open the Tableau workbook (.twb or .twbx) in Tableau Desktop or Tableau Reader.
 If prompted to connect to the data source, select the Sample Superstore dataset.
 Navigate to the "Profit Report" dashboard using the tabs at the bottom of the workbook.
 Use the filters on the right-hand side of the dashboard to filter the data by category, sub-category, and region.
 Interact with the visualizations to explore the data and gain insights into sales and profit trends.
-
+Link- https://public.tableau.com/app/profile/aftab1067/viz/ProfitDashboard1_16772314161840/ProfitDashboard
 Dashboard Visualizations
 The Profit Report dashboard includes the following visualizations:
 
